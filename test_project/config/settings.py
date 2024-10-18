@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 SECRET_KEY = "local-testing-insecure-secret"
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["*"]
 
